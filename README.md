@@ -26,4 +26,4 @@ Languages     : Python, Dart, SQL, C, Java (Basics)
 Frameworks    : Flutter, Tkinter
 Libraries     : Pandas, NumPy, Scikit-learn, OpenCV, Matplotlib, TensorFlow
 Tools         : Git, VS Code, Jupyter, Google Colab, Firebase
-Databases     : MySQL, SQLite
+Databases     : MySQL, SQLite, PostgreSQL
