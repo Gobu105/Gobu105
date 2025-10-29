@@ -67,15 +67,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gobu105&show_icons=true&locale=en&layout=compact&theme=radical" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gobu105&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gobu105&show_icons=true&locale=en&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gobu105&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gobu105&theme=radical" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=Gobu105&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
