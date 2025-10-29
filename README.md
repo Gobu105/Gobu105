@@ -35,16 +35,20 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://instagram.com/__.jatin.__105" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jatin._.joshi" height="30" width="40" />
+  <a href="https://instagram.com/__.jatin.__105" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/Gobu105" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+  <a href="https://www.leetcode.com/Gobu105" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="mailto:jatinjoshi1005@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="gmail" height="30" width="40" />
+  <a href="mailto:jatinjoshi1005@gmail.com" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/jatin-joshi-125073230/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
+
 
 ---
 
