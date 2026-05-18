@@ -71,14 +71,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gobu105&layout=compact&theme=radical&hide=python" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gobu105&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Gobu105&theme=radical" alt="GitHub Streak" />
 </p>
 
